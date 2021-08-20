@@ -1,0 +1,4 @@
+OBJETO;é uma instância da classe
+BOLSA;guarda objetos pessoais
+COLA;gruda as coisas
+SALA;local para ver TV
